@@ -33,3 +33,13 @@ A tool for optimizing builds in Dark Souls III.
 5* fix the hack in the optimizer for forcing UI update.
 
 1* use angular2 new router
+
+## Installation
+
+```
+nvm use 10
+npm install
+npm start
+```
+
+Then visit http://localhost:3000.
