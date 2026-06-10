@@ -7103,7 +7103,7 @@ var ARMORY = {
         },
         {
             "Name": "Fleshbite Ring",
-            "Weight": 0.6,
+            "Weight": 0.9,
             "VitalityModifier": null,
             "ProductModfier": null
         },
