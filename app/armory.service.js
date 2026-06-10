@@ -1630,25 +1630,6 @@ var ARMORY = {
             "Poise": 4.4
         },
         {
-            "SetId": 91,
-            "Enabled": true,
-            "Name": "Violet Wrappings",
-            "Weight": 0.9,
-            "Physical": 0.7,
-            "Strike": 0.5,
-            "Slash": 0.4,
-            "Thrust": 0.4,
-            "Magic": 3.0,
-            "Fire": 2.5,
-            "Lightning": 2.8,
-            "Dark": 2.9,
-            "Bleed": 11.0,
-            "Poison": 17.0,
-            "Frost": 10.0,
-            "Curse": 21.0,
-            "Poise": 0.1
-        },
-        {
             "SetId": 92,
             "Enabled": true,
             "Name": "Black Witch Hat",
@@ -5073,6 +5054,25 @@ var ARMORY = {
             "Poise": 2.9
         },
         {
+            "SetId": 91,
+            "Enabled": true,
+            "Name": "Violet Wrappings",
+            "Weight": 0.9,
+            "Physical": 0.7,
+            "Strike": 0.5,
+            "Slash": 0.4,
+            "Thrust": 0.4,
+            "Magic": 3.0,
+            "Fire": 2.5,
+            "Lightning": 2.8,
+            "Dark": 2.9,
+            "Bleed": 11.0,
+            "Poison": 17.0,
+            "Frost": 10.0,
+            "Curse": 21.0,
+            "Poise": 0.1
+        },
+        {
             "SetId": 92,
             "Enabled": true,
             "Name": "Black Witch Wrappings",
@@ -6671,7 +6671,7 @@ var ARMORY = {
             "Poise": 6.3
         },
         {
-            "SetId": 80,
+            "SetId": 91,
             "Enabled": true,
             "Name": "Loincloth",
             "Weight": 1.1,
@@ -6878,25 +6878,6 @@ var ARMORY = {
             "Frost": 32,
             "Curse": 22,
             "Poise": 12.9
-        },
-        {
-            "SetId": 99,
-            "Enabled": true,
-            "Name": "Loincloth",
-            "Weight": 1.1,
-            "Physical": 1.9,
-            "Strike": 1.9,
-            "Slash": 1.9,
-            "Thrust": 1.6,
-            "Magic": 5.8,
-            "Fire": 4.9,
-            "Lightning": 5.1,
-            "Dark": 5.8,
-            "Bleed": 20,
-            "Poison": 35,
-            "Frost": 10,
-            "Curse": 43,
-            "Poise": 0.4
         },
         {
             "SetId": 100,
@@ -7138,7 +7119,7 @@ var ARMORY = {
             "ProductModfier": null
         },
         {
-            "Name": "Covetous Silver Serpernt Ring",
+            "Name": "Covetous Silver Serpent Ring",
             "Weight": 1.2,
             "VitalityModifier": null,
             "ProductModfier": null
