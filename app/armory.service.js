@@ -7121,13 +7121,13 @@ var ARMORY = {
         },
         {
             "Name": "Scholar Ring",
-            "Weight": 0.8,
+            "Weight": 0.6,
             "VitalityModifier": null,
             "ProductModfier": null
         },
         {
             "Name": "Priestess Ring",
-            "Weight": 0.8,
+            "Weight": 0.6,
             "VitalityModifier": null,
             "ProductModfier": null
         },
