@@ -1,0 +1,9 @@
+{
+  "startPath": "/ds3optimizer/",
+  "server": {
+    "baseDir": "./",
+    "routes": {
+      "/ds3optimizer": "./"
+    }
+  }
+}
